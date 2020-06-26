@@ -40,19 +40,19 @@ CSS is the language for describing the presentation of Web pages, including colo
 `<body style style="background-color:DodgerBlue;">Hello World</body>`
 
 # Creating Table
-`<table>
-  <tr>
-    <td>heading1</td>
-    <td>heading2</td>
-  </tr>
-  <tr>
-    <td>field1</td>
-    <td>field2</td>
-  </tr>
-</table> `
+`<table>`  
+  `<tr>`
+    `<td>heading1</td>`
+   ` <td>heading2</td>`
+  `</tr>`
+  `<tr>`
+    `<td>field1</td>`
+   ` <td>field2</td>`
+ ` </tr>`
+`</table> `
 
 **Semantic elements that can be used to define different parts of a web page: ** 
-
+`
 <article>
 <aside>
 <details>
