@@ -27,9 +27,8 @@ CSS is the language for describing the presentation of Web pages, including colo
 <h4>This is heading 4</h4>
 <h5>This is heading 5</h5>
 <h6>This is heading 6</h6>`
-
+`
 **Apply backround colour**
 
-`<body style style="background-color:DodgerBlue;">Hello World</body>
-`
+`<body style style="background-color:DodgerBlue;">Hello World</body>`
 
