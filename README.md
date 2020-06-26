@@ -7,18 +7,18 @@ CSS is the language for describing the presentation of Web pages, including colo
 
 **Tag Description**
 
-`
-<!DOCTYPE> 	Defines the document type
-<html>	Defines an HTML document
-<head>	Contains metadata/information for the document
-<title>	Defines a title for the document
-<body>	Defines the document's body
-<h1> to <h6>	Defines HTML headings
-<p>	Defines a paragraph
-<br>	Inserts a single line break
-<hr>	Defines a thematic change in the content
-<!--...-->	Defines a comment
-`
+
+`<!DOCTYPE> 	Defines the document type`
+`<html>	Defines an HTML document`
+`<head>	Contains metadata/information for the document`
+`<title>	Defines a title for the document`
+`<body>	Defines the document's body`
+`<h1> to <h6>	Defines HTML headings`
+`<p>	Defines a paragraph`
+`<br>	Inserts a single line break`
+`<hr>	Defines a thematic change in the content`
+`<!--...-->	Defines a comment`
+
 **The six different HTML headings:**
 
 `<h1>This is heading 1</h1>`
@@ -29,6 +29,8 @@ CSS is the language for describing the presentation of Web pages, including colo
 
 `<h4>This is heading 4</h4>`
 
+
+
 `<h5>This is heading 5</h5>`
 
 `<h6>This is heading 6</h6>`
@@ -37,3 +39,31 @@ CSS is the language for describing the presentation of Web pages, including colo
 
 `<body style style="background-color:DodgerBlue;">Hello World</body>`
 
+# Creating Table
+`<table>
+  <tr>
+    <td>heading1</td>
+    <td>heading2</td>
+  </tr>
+  <tr>
+    <td>field1</td>
+    <td>field2</td>
+  </tr>
+</table> `
+
+**Semantic elements that can be used to define different parts of a web page: ** 
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+  
