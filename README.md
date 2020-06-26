@@ -22,11 +22,17 @@ CSS is the language for describing the presentation of Web pages, including colo
 **The six different HTML headings:**
 
 `<h1>This is heading 1</h1>`
+
 `<h2>This is heading 2</h2>`
+
 `<h3>This is heading 3</h3>`
+
 `<h4>This is heading 4</h4>`
+
 `<h5>This is heading 5</h5>`
+
 `<h6>This is heading 6</h6>`
+
 **Apply backround colour**
 
 `<body style style="background-color:DodgerBlue;">Hello World</body>`
